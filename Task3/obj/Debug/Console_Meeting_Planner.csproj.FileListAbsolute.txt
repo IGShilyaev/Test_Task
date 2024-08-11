@@ -1,0 +1,7 @@
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\bin\Debug\Console_Meeting_Planner.exe.config
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\bin\Debug\Console_Meeting_Planner.exe
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\bin\Debug\Console_Meeting_Planner.pdb
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\obj\Debug\Console_Meeting_Planner.csproj.AssemblyReference.cache
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\obj\Debug\Console_Meeting_Planner.csproj.CoreCompileInputs.cache
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\obj\Debug\Console_Meeting_Planner.exe
+D:\WORK_STUFF\Тестовые задания\CRM\Программист C#\Управление встречами\Console_Meeting_Planner\obj\Debug\Console_Meeting_Planner.pdb
